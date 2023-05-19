@@ -1,0 +1,51 @@
+﻿@model welfare.Models.RegisterModel
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/auth.cshtml";
+}
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<div class="container">
+    
+    <center>
+<h1>Login</h1>
+    </center>
+
+<hr />
+
+        <h4>
+            @ViewBag.error
+        </h4>
+
+
+<div class="row">
+        <div class="col-md-4" style="margin-left:375px;">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+          
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input type="password" asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+        
+    </div>
+</div>
+ 
+</div>
+
+           

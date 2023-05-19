@@ -1,0 +1,49 @@
+﻿@model welfare.Models.RegisterModel
+
+@{
+    ViewData["Title"] = "Registration";
+    Layout = "~/Views/Shared/auth.cshtml";
+}
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<center>
+    <h1>Registration</h1>
+</center>
+
+
+
+<div class="container">
+
+<form asp-controller="" asp-action="Registration">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Name" for="exampleInputName" class="form-label">Name</label>
+        <input asp-for="Name" type="name" class="form-control" id="exampleInputName">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" for="exampleInputEmail1" class="form-label">Email address</label>
+        <input asp-for="Email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        <span asp-validation-for="Email" class="text-danger"></span>
+
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" asp-for="Password" class="form-label">Password</label>
+        <input type="password" asp-for="Password" class="form-control" id="exampleInputPassword1">
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+   
+</form>
+    
+
+</div>
+
+
+
