@@ -9,105 +9,109 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = welfare
 build_property.RootNamespace = welfare
-build_property.ProjectDir = C:\Users\Administrator\Downloads\eproject(ibad)\welfare\welfare\
+build_property.ProjectDir = D:\eprojectwelfare\welfare\welfare\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Administrator\Downloads\eproject(ibad)\welfare\welfare
+build_property.MSBuildProjectDirectory = D:\eprojectwelfare\welfare\welfare
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Dashboard/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXENvbnRhY3QuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Dashboard/Index.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Dashboard/Profile.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Dashboard/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Dashboard/Tables.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Dashboard/Tables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFRhYmxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Home/Index.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Home/Privacy.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Reglog/Dashboard.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Reglog/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnbG9nXERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Reglog/Login.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Reglog/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnbG9nXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Reglog/Registration.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Reglog/Registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnbG9nXFJlZ2lzdHJhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Shared/auth.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Shared/auth.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGF1dGguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Shared/Dash_header_footer.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Shared/Dash_header_footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERhc2hfaGVhZGVyX2Zvb3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Shared/Error.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Shared/header_footer.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Shared/header_footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGhlYWRlcl9mb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/website/About.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/website/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd2Vic2l0ZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/website/Causes.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/website/Causes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd2Vic2l0ZVxDYXVzZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/website/Contact.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/website/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd2Vic2l0ZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/website/Donate.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/website/Donate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd2Vic2l0ZVxEb25hdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/website/Event.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/website/Event.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd2Vic2l0ZVxFdmVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/website/Gallery.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/website/Gallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd2Vic2l0ZVxHYWxsZXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/website/Index.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/website/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd2Vic2l0ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/_ViewImports.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/website/ShowContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd2Vic2l0ZVxTaG93Q29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/eprojectwelfare/welfare/welfare/Views/website/ShowRegistration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncd2Vic2l0ZVxTaG93UmVnaXN0cmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/eprojectwelfare/welfare/welfare/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/_ViewStart.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/Downloads/eproject(ibad)/welfare/welfare/Views/Shared/_Layout.cshtml]
+[D:/eprojectwelfare/welfare/welfare/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yx9jh8qkon

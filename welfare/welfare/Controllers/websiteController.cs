@@ -38,6 +38,7 @@ namespace welfare.Controllers
         {
             db_context.contacts.Add(r);
             db_context.SaveChanges();
+            ViewBag.success = "Submitted Successfully";
             ModelState.Clear();
             return View();
         }
@@ -54,5 +55,10 @@ namespace welfare.Controllers
         {
             return View();
         }
+        public IActionResult ShowContact()
+        {
+            return View(db_context.contacts.ToList());
+        }
+
     }
 }
